@@ -1,1 +1,1 @@
-# dataanalyst_interview_cramming_package
+# data_analyst_interview_cramming_package
